@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;900&display=swap");
+body{
+    background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superover-bg.png);
+    font-family: "Poppins",sans-serif;
+    background-size: cover;
+    text-align: center;
+}
+.logo{
+    margin-top: 50px;}
+.anuj{
+    display: flex;
+    margin: 40px 0px 50px 210px;
+}
+#d{
+    height: 50px;    
+}
+
+.team{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.box{
+    display: flex;
+}
+#in{
+    font-size: 60px;
+}
+#pa{
+    font-size: 60px;
+}
+.w{
+    margin: 30px;
+}
+.g{
+    margin: 0px;
+}
+.f{
+    margin: 30px;
+}
+.circle1{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 100px;
+}
+.circle2{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 100px;
+}
+
+.flex1{
+    align-content: center;
+    display: flex;
+    justify-content: space-evenly}
+.flex2{
+    align-content: center;
+    display: flex;
+    justify-content: space-evenly
+}
+.ind{
+    margin: 30px;
+    justify-content: space-between;
+    text-align: center;
+    color: white;
+    background-color:  #005fa2;
+    height: 350px;
+    width: 450px;
+    border-radius: 30px;
+
+}
+.pak{
+    margin: 30px;
+    justify-content: space-between;
+    text-align: center;
+    color: white;
+    background-color:  #1fa83d;
+    height: 350px;
+    width: 450px;
+    border-radius: 30px;
+}
+
+#button{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.d{
+    font-size: xx-large;
+    font-weight: bold;
+}
+#st{
+    margin: 0px 50px 0px 50px;
+    height: 90px;
+    width: 90px;
+}
+#re{
+    height: 90px;
+    width: 90px;
+}
+.w{
+    font-size: large;
+    font-weight: 100px;
+}
+
